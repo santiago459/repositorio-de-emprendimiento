@@ -1,0 +1,10 @@
+{
+    "vscode_vibrancy.opacity": 0.2,
+    "vscode_vibrancy.refreshInterval": 1000,
+    "vscode_vibrancy.imports": [
+    
+    
+
+        "/path/to/file"
+    ]
+}
